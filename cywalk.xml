@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>Update Cywalk</title>
     <item>
-        <title>Version 2.0</title>
+        <title>Version 1.2.0</title>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.cyclean.cywalk" sparkle:version="1.1.5" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.cyclean.cywalk" sparkle:version="1.2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>   
   </channel>
