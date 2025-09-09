@@ -3,7 +3,7 @@
   <channel>
     <title>Update Cywalk</title>
     <item>
-        <title>Version 1.2.0</title>
+        <title>Version 1.2.1</title>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.cyclean.cywalk" sparkle:version="1.2.3" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
